@@ -32,7 +32,7 @@ This is an Udacity Data Science Nano Degree project which focuses on the COVID-1
 
 #### Results
 
-The results of the code and dataset can be found [here](https://github.com/seyadeel/DataData "here") and the blogpost for this project [here](https://tsegu-kahsay.medium.com/)
+The results of the code and dataset can be found [here](https://github.com/seyadeel/DataData "here") (GitHub) and the blogpost for this project [here](https://tsegu-kahsay.medium.com/) (medium)
 
 #### Acknowledgements
 
