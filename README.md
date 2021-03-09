@@ -28,7 +28,7 @@ This is an Udacity Data Science Nano Degree project which focuses on the COVID-1
 
 **Datascience.Ipynb** – JupyterNotebook edited file
 **DataScience.py** – Spyder edited and executed file
-**covid_19_vaccination.csv **– The main dataset used for the project
+**covid_19_vaccination.csv ** – The main dataset used for the project
 
 #### Results
 
