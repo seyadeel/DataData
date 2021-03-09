@@ -3,10 +3,11 @@
  Udacity Data Scientist Nanodegree Project.
  
 #### Table of Contents
-	1.	Installation
-	2.	Project Motivation
-	3.	Results
-	4.	Acknowledgements
+
+	1 - Installation
+	2 - Project Motivation
+	3 - Results
+	4 - Acknowledgements
 
 #### Installation
 This code in written in Python 3.9.1 using Anaconda (3.0) for windows, Mac OS and Linux by installing spyder (4.2.1), JupyterLab (2.2.6), JupyterNotebook (6.2.0) and all the necessary libraries like numpy, pandas, matlibplot and geopandas , into its environment.  For command-line installation of Python, just execute the following command in preferred terminal.
@@ -28,7 +29,7 @@ This is an Udacity Data Science Nano Degree project which focuses on the COVID-1
 
 **Datascience.Ipynb** – JupyterNotebook edited file
 **DataScience.py** – Spyder edited and executed file
-**covid_19_vaccination.csv ** – The main dataset used for the project
+**covid_19_vaccination.csv** – The main dataset used for the project
 
 #### Results
 
