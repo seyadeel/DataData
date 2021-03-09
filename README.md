@@ -31,6 +31,7 @@ This is an Udacity Data Science Nano Degree project which focuses on the COVID-1
 **DataScience.py** – Spyder edited and executed file
 **covid_19_vaccination.csv** – The main dataset used for the project
 
+
 #### Results
 
 The results of the code and dataset can be found [here](https://github.com/seyadeel/DataData "here") (GitHub) and the blogpost for this project [here](https://tsegu-kahsay.medium.com/) (medium)
