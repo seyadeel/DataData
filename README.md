@@ -21,10 +21,10 @@ You will need to download country_vaccinations.csv from [here](https://www.kaggl
 
 This is an Udacity Data Science Nano Degree project which focuses on the COVID-19 vaccination and vaccines. The main question covered in this project are 
 
-	1 - What is the total number of vaccination in the world and which countries are leading in the process? 
-	2 - What is the number of total vaccination per one hundred people and which countries are doing well? 
-	3 - Which vaccine or vaccines are administered the most? 
-	4 - Which country has the highest usage of a vaccine per hundred people?
+	1-What is the total number of vaccination in the world and which countries are leading in the process? 
+	2-What is the number of total vaccination per one hundred people and which countries are doing well? 
+	3-Which vaccine or vaccines are administered the most? 
+	4-Which country has the highest usage of a vaccine per hundred people?
 
 #### File Description
 
